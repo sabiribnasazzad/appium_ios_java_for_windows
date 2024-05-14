@@ -17,3 +17,5 @@ Before running tests, ensure that the DesiredCapabilities() function is properly
 6. platformName
 
 Please note that to utilize Sauce Labs or similar services, users must have a subscription and pay the required subscription fee.
+
+For detail info check this doc: https://docs.google.com/document/d/1yWSFiOITsla1-So0g6yyVHgERn1nXK3GIyX87IMOZ0g/edit?usp=sharing
